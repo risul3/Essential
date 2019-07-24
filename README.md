@@ -1,3 +1,3 @@
 # Essential
 
-## Will try to add essential scripts time to time.
+#### Will try to add essential scripts time to time.
